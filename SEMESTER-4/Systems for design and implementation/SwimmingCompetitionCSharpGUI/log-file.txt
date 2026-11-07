@@ -1,0 +1,469 @@
+2024-03-15 18:00:15,237 [1] INFO  Program - Helloo
+2024-03-15 18:01:40,123 [1] INFO  Program - Helloo
+2024-03-15 18:17:57,246 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-15 18:17:57,263 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-03-15 18:17:57,264 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-03-15 18:17:57,265 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-03-15 18:17:57,268 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindAll
+2024-03-15 18:17:57,450 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajati: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Angajat]
+2024-03-15 18:17:57,461 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-15 18:17:57,463 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Participant]
+2024-03-15 18:17:57,469 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Entering FindAll
+2024-03-15 18:17:57,470 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Find participari: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Participare]
+2024-03-15 18:17:57,472 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Entering FindAll
+2024-03-15 18:17:57,488 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Find probe: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Proba]
+2024-03-15 19:56:07,822 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-15 19:56:07,834 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-03-15 19:56:07,835 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-03-15 19:56:07,835 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-03-15 19:56:07,910 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindAll
+2024-03-15 19:56:08,280 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajati: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Angajat]
+2024-03-15 19:56:08,285 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-15 19:56:08,287 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Participant]
+2024-03-15 19:56:08,290 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Entering FindAll
+2024-03-15 19:58:18,881 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-15 19:58:18,889 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-03-15 19:58:18,890 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-03-15 19:58:18,890 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-03-15 19:58:18,892 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindAll
+2024-03-15 19:58:18,963 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajati: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Angajat]
+2024-03-15 19:58:18,967 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-15 19:58:18,968 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Participant]
+2024-03-15 19:58:18,971 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Entering FindAll
+2024-03-15 19:58:18,979 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Find participari: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Participare]
+2024-03-15 19:58:18,986 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Entering FindAll
+2024-03-15 19:58:18,991 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Find probe: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Proba]
+2024-03-15 21:27:03,544 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-15 21:27:03,551 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-03-15 21:27:03,551 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-03-15 21:27:03,552 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-03-15 21:27:03,607 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Entering FindAll
+2024-03-15 21:27:03,999 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Find participari: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Participare]
+2024-03-15 21:29:58,594 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-15 21:29:58,601 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-03-15 21:29:58,601 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-03-15 21:29:58,602 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-03-15 21:29:58,603 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Entering FindAll
+2024-03-15 21:29:58,674 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Find participari: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Participare]
+2024-03-15 21:30:08,194 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-15 21:30:08,202 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-03-15 21:30:08,202 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-03-15 21:30:08,203 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-03-15 21:30:08,206 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Entering FindAll
+2024-03-15 21:30:08,274 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Find participari: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Participare]
+2024-03-15 21:31:14,256 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-15 21:31:14,264 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-03-15 21:31:14,264 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-03-15 21:31:14,265 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-03-15 21:31:14,266 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Entering FindAll
+2024-03-15 21:31:14,334 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Find participari: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Participare]
+2024-03-15 21:31:24,317 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-15 21:31:24,328 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-03-15 21:31:24,329 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-03-15 21:31:24,329 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-03-15 21:31:24,331 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Entering FindAll
+2024-03-15 21:31:24,414 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Find participari: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Participare]
+2024-03-15 21:31:38,891 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-15 21:31:38,901 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-03-15 21:31:38,901 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-03-15 21:31:38,902 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-03-15 21:31:38,904 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Entering FindAll
+2024-03-15 21:31:38,987 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Find participari: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Participare]
+2024-03-15 21:32:33,325 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-15 21:32:33,333 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-03-15 21:32:33,334 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-03-15 21:32:33,334 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-03-15 21:32:33,336 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Entering FindAll
+2024-03-15 21:32:33,406 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Find participari: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Participare]
+2024-03-15 21:33:42,522 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-15 21:33:42,535 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-03-15 21:33:42,535 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-03-15 21:33:42,536 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-03-15 21:33:42,539 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Entering FindAll
+2024-03-15 21:33:42,626 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Find participari: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Participare]
+2024-03-15 21:34:16,367 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-15 21:34:16,376 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-03-15 21:34:16,376 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-03-15 21:34:16,377 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-03-15 21:34:16,379 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Entering FindAll
+2024-03-15 21:34:16,450 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Find participari: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Participare]
+2024-03-15 21:35:13,751 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-15 21:35:13,760 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-03-15 21:35:13,761 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-03-15 21:35:13,761 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-03-15 21:35:13,773 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Entering Add with participare: Id: , DataInscrierii: 2/12/2023
+2024-03-15 21:35:35,891 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-15 21:35:35,898 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-03-15 21:35:35,898 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-03-15 21:35:35,898 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-03-15 21:35:35,906 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Entering Add with participare: Id: Id1: 1, Id2: 3, DataInscrierii: 2/12/2023
+2024-03-15 21:35:57,385 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-15 21:35:57,401 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-03-15 21:35:57,402 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-03-15 21:35:57,403 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-03-15 21:35:57,411 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Entering Add with participare: Id: Id1: 1, Id2: 3, DataInscrierii: 2/12/2023
+2024-03-15 21:35:57,507 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Inserting 1 rows
+2024-03-15 21:35:57,509 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Entering FindAll
+2024-03-15 21:37:48,345 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-15 21:37:48,354 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-03-15 21:37:48,354 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-03-15 21:37:48,355 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-03-15 21:37:48,362 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Entering Add with participare: Id: Id1: 1, Id2: 3, DataInscrierii: 2/12/2023
+2024-03-15 21:37:48,443 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Inserting 1 rows
+2024-03-15 21:37:48,446 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Entering FindAll
+2024-03-15 21:37:48,451 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Find participari: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Participare]
+2024-03-17 11:25:34,950 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-17 11:25:34,960 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-03-17 11:25:34,961 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-03-17 11:25:34,961 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-03-17 11:26:07,084 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-17 11:26:07,103 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-03-17 11:26:07,111 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-03-17 11:26:07,112 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-03-17 11:26:07,509 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindAll
+2024-03-17 11:26:08,681 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajati: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Angajat]
+2024-03-17 11:27:15,934 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-17 11:27:15,957 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-03-17 11:27:15,958 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-03-17 11:27:15,958 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-03-17 11:27:15,987 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindAll
+2024-03-17 11:27:16,319 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajati: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Angajat]
+2024-03-17 11:27:38,615 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-17 11:27:38,641 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-03-17 11:27:38,643 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-03-17 11:27:38,644 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-03-17 11:27:38,774 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindAll
+2024-03-17 11:27:39,279 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajati: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Angajat]
+2024-03-17 11:27:39,287 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-17 11:27:39,289 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Participant]
+2024-03-17 11:27:39,292 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Entering FindAll
+2024-03-17 11:27:39,293 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Find participari: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Participare]
+2024-03-17 11:27:39,294 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Entering FindAll
+2024-03-17 11:27:39,306 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Find probe: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Proba]
+2024-03-17 13:01:45,417 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-17 13:02:09,477 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-17 13:02:09,716 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindAll
+2024-03-17 13:02:10,651 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajati: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Angajat]
+2024-03-17 13:03:42,969 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-17 13:03:43,183 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindAll
+2024-03-17 13:03:43,438 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajati: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Angajat]
+2024-03-17 13:04:20,635 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-17 13:04:20,726 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindAll
+2024-03-17 13:04:21,036 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajati: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Angajat]
+2024-03-17 13:08:33,464 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-17 13:08:33,500 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindAll
+2024-03-17 13:08:33,714 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajati: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Angajat]
+2024-03-17 13:09:51,649 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-17 13:09:51,734 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindAll
+2024-03-17 13:09:52,034 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajati: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Angajat]
+2024-03-17 13:11:47,304 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-17 13:11:47,360 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindAll
+2024-03-17 13:11:47,641 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajati: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Angajat]
+2024-03-17 13:14:38,607 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-17 13:14:38,682 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindAll
+2024-03-17 13:14:39,038 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajati: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Angajat]
+2024-03-17 13:20:08,090 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-17 13:20:08,141 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindAll
+2024-03-17 13:20:08,438 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajati: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Angajat]
+2024-03-17 13:21:51,510 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-17 13:21:51,545 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindAll
+2024-03-17 13:21:51,770 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajati: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Angajat]
+2024-03-17 13:33:27,158 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-17 13:33:27,205 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindAll
+2024-03-17 13:33:27,460 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajati: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Angajat]
+2024-03-17 13:36:38,167 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-17 13:38:08,894 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindAll
+2024-03-17 13:38:09,143 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajati: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Angajat]
+2024-03-17 13:38:31,925 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-17 13:38:31,961 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindAll
+2024-03-17 13:38:32,170 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajati: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Angajat]
+2024-03-17 13:39:05,925 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-17 13:39:52,890 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindAll
+2024-03-17 13:39:53,048 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajati: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Angajat]
+2024-03-17 13:41:45,596 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-17 13:41:45,629 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindAll
+2024-03-17 13:41:45,868 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajati: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Angajat]
+2024-03-17 13:44:24,933 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-17 13:44:24,968 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindAll
+2024-03-17 13:44:25,259 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajati: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Angajat]
+2024-03-18 10:33:19,079 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-18 10:33:19,095 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-03-18 10:33:19,096 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-03-18 10:33:19,097 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-03-18 10:33:19,263 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindAll
+2024-03-18 10:33:20,474 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajati: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Angajat]
+2024-03-18 10:33:20,495 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-18 10:33:20,500 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Participant]
+2024-03-18 10:33:20,511 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Entering FindAll
+2024-03-18 10:33:20,513 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Find participari: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Participare]
+2024-03-18 10:33:20,515 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Entering FindAll
+2024-03-18 10:33:20,542 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Find probe: System.Collections.Generic.List`1[SwimmingCompetition.Domain.Proba]
+2024-03-25 12:48:05,458 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-25 12:48:05,471 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-03-25 12:48:05,472 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-03-25 12:48:05,472 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-03-25 12:48:10,988 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindByFirstnameLastnamePassword with id: Ionut Pop popionut
+2024-03-25 12:48:11,275 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - No angajat found
+2024-03-25 12:49:25,958 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-25 12:49:26,002 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-03-25 12:49:26,005 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-03-25 12:49:26,006 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-03-25 12:49:34,093 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindByFirstnameLastnamePassword with id: Ionut Pop popionut
+2024-03-25 12:49:34,411 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajat: Id: 1, Nume: Pop, Prenume: Ionut, Locatie: Cluj-Napoca, Parola: popionut
+2024-03-25 12:50:21,472 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-25 12:50:21,491 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-03-25 12:50:21,492 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-03-25 12:50:21,492 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-03-25 12:50:29,339 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindByFirstnameLastnamePassword with id: Ionut Pop popionut
+2024-03-25 12:50:29,608 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajat: Id: 1, Nume: Pop, Prenume: Ionut, Locatie: Cluj-Napoca, Parola: popionut
+2024-03-25 12:50:29,665 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Entering FindAll
+2024-03-25 12:50:29,718 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Find probe: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ProbaDTO]
+2024-03-25 12:50:59,403 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-25 12:50:59,418 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-03-25 12:50:59,419 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-03-25 12:50:59,420 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-03-25 12:51:05,367 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindByFirstnameLastnamePassword with id: Ionut Pop popionut
+2024-03-25 12:51:05,558 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajat: Id: 1, Nume: Pop, Prenume: Ionut, Locatie: Cluj-Napoca, Parola: popionut
+2024-03-25 12:51:05,613 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Entering FindAll
+2024-03-25 12:51:05,631 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Find probe: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ProbaDTO]
+2024-03-25 12:51:12,395 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 12:52:07,932 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-25 12:52:07,963 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-03-25 12:52:07,965 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-03-25 12:52:07,966 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-03-25 12:52:13,821 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindByFirstnameLastnamePassword with id: Ionut Pop popionut
+2024-03-25 12:52:14,018 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajat: Id: 1, Nume: Pop, Prenume: Ionut, Locatie: Cluj-Napoca, Parola: popionut
+2024-03-25 12:52:14,074 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Entering FindAll
+2024-03-25 12:52:14,094 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Find probe: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ProbaDTO]
+2024-03-25 12:52:17,488 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 12:52:17,520 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 12:52:43,146 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-25 12:52:43,198 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-03-25 12:52:43,199 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-03-25 12:52:43,200 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-03-25 12:52:48,173 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindByFirstnameLastnamePassword with id: Ionut Pop popionut
+2024-03-25 12:52:48,377 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajat: Id: 1, Nume: Pop, Prenume: Ionut, Locatie: Cluj-Napoca, Parola: popionut
+2024-03-25 12:52:48,426 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Entering FindAll
+2024-03-25 12:52:48,440 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Find probe: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ProbaDTO]
+2024-03-25 12:52:52,448 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 12:52:52,451 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 12:53:28,674 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-25 12:53:28,694 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-03-25 12:53:28,695 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-03-25 12:53:28,695 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-03-25 12:53:38,838 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindByFirstnameLastnamePassword with id: Ionut Pop popionut
+2024-03-25 12:53:39,154 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajat: Id: 1, Nume: Pop, Prenume: Ionut, Locatie: Cluj-Napoca, Parola: popionut
+2024-03-25 12:53:39,256 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Entering FindAll
+2024-03-25 12:53:39,285 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Find probe: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ProbaDTO]
+2024-03-25 12:53:42,156 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 12:53:42,158 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 12:53:42,159 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-03-25 12:53:42,159 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 12:53:42,160 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-03-25 12:53:42,160 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ParticipantDTO]
+2024-03-25 12:58:29,235 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-25 12:58:29,257 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-03-25 12:58:29,259 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-03-25 12:58:29,261 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-03-25 12:58:38,184 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindByFirstnameLastnamePassword with id: Ionut Pop popionut
+2024-03-25 12:58:38,573 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajat: Id: 1, Nume: Pop, Prenume: Ionut, Locatie: Cluj-Napoca, Parola: popionut
+2024-03-25 12:58:38,680 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Entering FindAll
+2024-03-25 12:58:38,702 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Find probe: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ProbaDTO]
+2024-03-25 12:58:41,912 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 12:58:41,916 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 12:58:41,917 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-03-25 12:58:41,917 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 12:58:41,917 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-03-25 12:58:41,918 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ParticipantDTO]
+2024-03-25 12:58:46,555 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 12:58:46,556 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 12:58:46,556 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-03-25 12:58:46,556 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 12:58:46,556 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-03-25 12:58:46,556 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 12:58:46,557 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-03-25 12:58:46,557 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ParticipantDTO]
+2024-03-25 12:59:41,611 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-25 12:59:41,629 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-03-25 12:59:41,630 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-03-25 12:59:41,631 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-03-25 12:59:50,784 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindByFirstnameLastnamePassword with id: Ionut Pop popionut
+2024-03-25 12:59:51,080 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajat: Id: 1, Nume: Pop, Prenume: Ionut, Locatie: Cluj-Napoca, Parola: popionut
+2024-03-25 12:59:51,177 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Entering FindAll
+2024-03-25 12:59:51,197 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Find probe: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ProbaDTO]
+2024-03-25 12:59:56,812 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 12:59:56,813 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 12:59:56,813 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-03-25 12:59:56,814 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 12:59:56,814 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-03-25 12:59:56,814 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ParticipantDTO]
+2024-03-25 13:00:08,854 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindByFirstnameLastnamePassword with id: Ionut Pop popionut
+2024-03-25 13:00:08,854 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajat: Id: 1, Nume: Pop, Prenume: Ionut, Locatie: Cluj-Napoca, Parola: popionut
+2024-03-25 13:00:08,857 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Entering FindAll
+2024-03-25 13:00:08,861 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Find probe: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ProbaDTO]
+2024-03-25 13:00:11,132 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 13:00:11,133 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 13:00:11,133 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-03-25 13:00:11,134 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 13:00:11,134 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-03-25 13:00:11,134 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ParticipantDTO]
+2024-03-25 13:07:02,016 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-25 13:07:02,031 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-03-25 13:07:02,032 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-03-25 13:07:02,033 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-03-25 13:07:43,680 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindByFirstnameLastnamePassword with id: Ionut Pop popionut
+2024-03-25 13:07:44,017 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajat: Id: 1, Nume: Pop, Prenume: Ionut, Locatie: Cluj-Napoca, Parola: popionut
+2024-03-25 13:07:44,111 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Entering FindAll
+2024-03-25 13:07:44,126 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Find probe: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ProbaDTO]
+2024-03-25 13:08:31,465 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindById with name: Andei Stan
+2024-03-25 13:08:31,466 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - No participant found
+2024-03-25 13:09:06,885 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-25 13:09:06,899 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-03-25 13:09:06,900 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-03-25 13:09:06,901 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-03-25 13:09:16,084 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindByFirstnameLastnamePassword with id: Ionut Pop popionut
+2024-03-25 13:09:16,319 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajat: Id: 1, Nume: Pop, Prenume: Ionut, Locatie: Cluj-Napoca, Parola: popionut
+2024-03-25 13:09:16,392 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Entering FindAll
+2024-03-25 13:09:16,413 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Find probe: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ProbaDTO]
+2024-03-25 13:09:24,850 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindById with name: Andrei Stan
+2024-03-25 13:09:24,852 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participant: Id: 7, Nume: Stan, Prenume: Andrei, Varsta: 34
+2024-03-25 13:09:24,855 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Entering Add with participare: Id: Id1: 7, Id2: 6, DataInscrierii: 3/25/2024
+2024-03-25 13:09:24,884 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Inserting 1 rows
+2024-03-25 13:09:24,884 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Entering Add with participare: Id: Id1: 7, Id2: 7, DataInscrierii: 3/25/2024
+2024-03-25 13:09:24,894 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Inserting 1 rows
+2024-03-25 13:09:24,894 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Entering Add with participare: Id: Id1: 7, Id2: 4, DataInscrierii: 3/25/2024
+2024-03-25 13:09:24,907 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Inserting 1 rows
+2024-03-25 13:09:24,907 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Entering Add with participare: Id: Id1: 7, Id2: 1, DataInscrierii: 3/25/2024
+2024-03-25 13:09:24,917 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Inserting 1 rows
+2024-03-25 13:09:24,917 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Entering FindAll
+2024-03-25 13:09:24,923 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Find probe: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ProbaDTO]
+2024-03-25 13:09:28,409 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 13:09:28,411 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 13:09:28,412 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-03-25 13:09:28,412 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 13:09:28,412 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-03-25 13:09:28,412 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 13:09:28,413 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-03-25 13:09:28,413 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ParticipantDTO]
+2024-03-25 13:09:31,317 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 13:09:31,318 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 13:09:31,318 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-03-25 13:09:31,318 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ParticipantDTO]
+2024-03-25 13:09:34,169 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 13:09:34,169 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 13:09:34,169 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-03-25 13:09:34,170 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 13:09:34,170 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-03-25 13:09:34,170 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 13:09:34,170 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-03-25 13:09:34,170 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ParticipantDTO]
+2024-03-25 13:09:37,617 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 13:09:37,618 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 13:09:37,619 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-03-25 13:09:37,619 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 13:09:37,619 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-03-25 13:09:37,619 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ParticipantDTO]
+2024-03-25 18:40:51,845 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-03-25 18:40:51,850 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-03-25 18:40:51,850 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-03-25 18:40:51,850 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-03-25 18:40:59,991 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindByFirstnameLastnamePassword with id: Ionut Pop popionut
+2024-03-25 18:41:00,801 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajat: Id: 1, Nume: Pop, Prenume: Ionut, Locatie: Cluj-Napoca, Parola: popionut
+2024-03-25 18:41:00,930 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Entering FindAll
+2024-03-25 18:41:00,960 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Find probe: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ProbaDTO]
+2024-03-25 18:41:41,974 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 18:41:42,007 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 18:41:42,007 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-03-25 18:41:42,008 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ParticipantDTO]
+2024-03-25 18:41:45,854 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 18:41:45,855 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 18:41:45,855 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-03-25 18:41:45,855 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 18:41:45,856 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-03-25 18:41:45,856 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 18:41:45,856 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-03-25 18:41:45,856 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ParticipantDTO]
+2024-03-25 18:41:56,714 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 18:41:56,714 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 18:41:56,715 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-03-25 18:41:56,715 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ParticipantDTO]
+2024-03-25 18:41:58,955 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 18:41:58,956 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 18:41:58,956 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-03-25 18:41:58,956 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 18:41:58,957 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-03-25 18:41:58,957 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 18:41:58,957 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-03-25 18:41:58,957 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ParticipantDTO]
+2024-03-25 18:42:12,499 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 18:42:12,500 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 18:42:12,500 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-03-25 18:42:12,501 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 18:42:12,501 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-03-25 18:42:12,501 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-03-25 18:42:12,501 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-03-25 18:42:12,501 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ParticipantDTO]
+2024-04-01 10:09:16,077 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-04-01 10:09:16,093 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-04-01 10:09:16,093 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-04-01 10:09:16,094 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-04-01 10:09:28,954 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindByFirstnameLastnamePassword with id: Ionut Pop popionut
+2024-04-01 10:09:29,462 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajat: Id: 1, Nume: Pop, Prenume: Ionut, Locatie: Cluj-Napoca, Parola: popionut
+2024-04-01 10:09:29,518 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Entering FindAll
+2024-04-01 10:09:29,532 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Find probe: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ProbaDTO]
+2024-04-01 10:09:36,587 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-04-01 10:09:36,590 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-04-01 10:09:36,591 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-04-01 10:09:36,592 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ParticipantDTO]
+2024-04-01 10:09:40,788 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-04-01 10:09:40,789 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-04-01 10:09:40,789 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-04-01 10:09:40,789 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ParticipantDTO]
+2024-04-01 10:09:44,151 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-04-01 10:09:44,151 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ParticipantDTO]
+2024-04-01 10:10:43,166 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-04-01 10:10:43,189 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-04-01 10:10:43,190 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-04-01 10:10:43,190 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-04-01 10:10:48,306 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindByFirstnameLastnamePassword with id: Ionut Pop popionut
+2024-04-01 10:10:48,672 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajat: Id: 1, Nume: Pop, Prenume: Ionut, Locatie: Cluj-Napoca, Parola: popionut
+2024-04-01 10:10:48,770 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Entering FindAll
+2024-04-01 10:10:48,788 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Find probe: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ProbaDTO]
+2024-04-01 10:10:51,895 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-04-01 10:10:51,896 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-04-01 10:10:51,897 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-04-01 10:10:51,898 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ParticipantDTO]
+2024-04-01 10:11:23,963 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-04-01 10:11:23,985 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-04-01 10:11:23,987 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-04-01 10:11:23,988 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-04-01 10:15:11,310 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Creating Angajat Repository
+2024-04-01 10:15:11,330 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Creating Participant Repository
+2024-04-01 10:15:11,330 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Creating Participare Repository
+2024-04-01 10:15:11,331 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Creating Proba Repository
+2024-04-01 10:15:20,286 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Entering FindByFirstnameLastnamePassword with id: Ionut Pop popionut
+2024-04-01 10:15:20,570 [1] INFO  SwimmingCompetition.Repository.AngajatRepository - Find angajat: Id: 1, Nume: Pop, Prenume: Ionut, Locatie: Cluj-Napoca, Parola: popionut
+2024-04-01 10:15:20,670 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Entering FindAll
+2024-04-01 10:15:20,696 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Find probe: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ProbaDTO]
+2024-04-01 10:15:25,443 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-04-01 10:15:25,445 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-04-01 10:15:25,446 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-04-01 10:15:25,446 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ParticipantDTO]
+2024-04-01 10:15:58,137 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindById with name: Radu Mihai
+2024-04-01 10:15:58,138 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participant: Id: 3, Nume: Mihai, Prenume: Radu, Varsta: 40
+2024-04-01 10:15:58,141 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Entering Add with participare: Id: Id1: 3, Id2: 5, DataInscrierii: 4/1/2024
+2024-04-01 10:15:58,170 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Inserting 1 rows
+2024-04-01 10:15:58,170 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Entering Add with participare: Id: Id1: 3, Id2: 6, DataInscrierii: 4/1/2024
+2024-04-01 10:15:58,177 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Inserting 1 rows
+2024-04-01 10:15:58,177 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Entering Add with participare: Id: Id1: 3, Id2: 4, DataInscrierii: 4/1/2024
+2024-04-01 10:15:58,185 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Inserting 1 rows
+2024-04-01 10:15:58,185 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Entering Add with participare: Id: Id1: 3, Id2: 2, DataInscrierii: 4/1/2024
+2024-04-01 10:15:58,193 [1] INFO  SwimmingCompetition.Repository.ParticipareRepository - Inserting 1 rows
+2024-04-01 10:15:58,193 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Entering FindAll
+2024-04-01 10:15:58,198 [1] INFO  SwimmingCompetition.Repository.ProbaRepository - Find probe: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ProbaDTO]
+2024-04-01 10:16:01,598 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-04-01 10:16:01,598 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-04-01 10:16:01,599 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-04-01 10:16:01,599 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Entering FindAll
+2024-04-01 10:16:01,599 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[System.Int32]
+2024-04-01 10:16:01,599 [1] INFO  SwimmingCompetition.Repository.ParticipantRepository - Find participanti: System.Collections.Generic.List`1[SwimmingCompetition.Domain.ParticipantDTO]
