@@ -1,0 +1,10 @@
+q1,q2,q3,q4,q5
+a,b
+q1
+q5
+q1,a,q2
+q2,a,q3
+q3,a,q3
+q3,b,q5
+q4,b,q5
+q5,b,q5

@@ -1,0 +1,29 @@
+<fisier> ::=    <mutlimeStari>
+                <multimeAlfabet>
+                <stareStart>
+                <multimeStariFinale>
+                <multimeTranzitii>
+
+<litera> ::= A | B | C | D | E | ... | Z | a | ... | z
+<cif> ::= 0 | 1 | ... | 9
+
+<stare> ::= <literal><stare> | <cif>stare | <literal> | <cif>
+
+<alfabet> ::= <literal> | <cif>
+
+
+<multimeStari> :== <stare>,<multimeStari> | <stare>
+
+<multimeAlfabet> ::= <alfabet>,<multimeAlfabet> | <alfabet>
+
+<stareStart> ::= <stare>
+
+<multimeStariFinale> ::= <stare>,<multimeStariFinale> | <stare>
+
+<tranzitie> ::= <stare>,<alfabet>,<stare>
+
+<multimeTranzitii> ::=  <tranzitie>
+                        <multimeTranzitii>
+                        | <tranzitie>
+
+

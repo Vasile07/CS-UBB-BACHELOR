@@ -1,0 +1,7 @@
+int main(){
+    int a, b;
+    read(a);
+    read(b);
+    a = a + b*b + a;
+    write(a);
+}

@@ -1,0 +1,8 @@
+E->TS
+S->+E
+S->
+T->FZ
+Z->*T
+Z->
+F->(E)
+F->"numar"

@@ -1,0 +1,7 @@
+int main(){
+int nr;
+nr=3;
+int a;
+read(a)
+write(3 * nr * a);
+}

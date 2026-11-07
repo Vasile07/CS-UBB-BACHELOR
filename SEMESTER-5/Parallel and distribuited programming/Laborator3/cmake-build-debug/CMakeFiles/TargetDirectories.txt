@@ -1,0 +1,3 @@
+C:/Facultate/AN 3 SEM 1/Programare Paralela si Distribuita/Laborator3/cmake-build-debug/CMakeFiles/Laborator3.dir
+C:/Facultate/AN 3 SEM 1/Programare Paralela si Distribuita/Laborator3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Facultate/AN 3 SEM 1/Programare Paralela si Distribuita/Laborator3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

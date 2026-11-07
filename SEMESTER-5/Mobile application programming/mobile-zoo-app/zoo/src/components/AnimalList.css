@@ -1,0 +1,25 @@
+.animal-list ion-item {
+    --background: #86c0de; /* Background color for ion-item */
+    --color: #000; /* Text color */
+    --border-radius: 5px; /* Border radius for rounded corners */
+    width: 70%; /* Custom width */
+}
+
+
+.animal-list {
+    width: 100%; /* Ensure full width */
+    background-color: transparent !important; /* Set a visible background color */
+    gap: 10px; /* Adds spacing between flex items */
+    display: flex; /* Ensure the gap works by enabling flexbox */
+    flex-direction: column; /* Stack items vertically */
+    justify-content: center;
+    align-items: center;
+}
+
+.animal-list ion-label{
+    color: black;
+}
+
+ion-content{
+    --background: transparent;
+}

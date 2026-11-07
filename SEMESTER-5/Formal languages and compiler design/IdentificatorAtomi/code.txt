@@ -1,0 +1,8 @@
+int main(){
+struct {
+int raza;
+}  c;
+double pi;pi=3.14;
+read(c.raza);
+write(2 * pi * c.raza, pi * c.raza * c.raza);
+}

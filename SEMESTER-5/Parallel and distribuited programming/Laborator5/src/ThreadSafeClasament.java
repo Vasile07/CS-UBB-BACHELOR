@@ -1,0 +1,54 @@
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Set;
+import java.util.TreeSet;
+
+public class ThreadSafeClasament {
+    private Map<Integer, Boolean> inUsage;
+    private final Map<Integer, Integer> punctaj;
+    private final Set<Integer> nongrati;
+
+    private final Map<Integer, Integer> tara;
+
+    public ThreadSafeClasament() {
+        punctaj = new HashMap<>();
+        nongrati = new TreeSet<>();
+        inUsage = new HashMap<>();
+        tara = new HashMap<>();
+    }
+
+    public synchronized void add(Pereche pereche) throws InterruptedException {
+        if (!inUsage.containsKey(pereche.getFirst())) {
+            inUsage.put(pereche.getFirst(), false);
+        }
+        while (inUsage.get(pereche.getFirst())) {
+            wait();
+        }
+        inUsage.put(pereche.getFirst(), true);
+
+        tara.put(pereche.getFirst(), pereche.getTara());
+
+        if (!nongrati.contains(pereche.getFirst())) {
+            if(pereche.getSecond() == -1){
+                punctaj.remove(pereche.getFirst());
+                nongrati.add(pereche.getFirst());
+            }else{
+                if(punctaj.containsKey(pereche.getFirst()))
+                    punctaj.put(pereche.getFirst(), pereche.getSecond() + punctaj.get(pereche.getFirst()));
+                else
+                    punctaj.put(pereche.getFirst(), pereche.getSecond());
+            }
+        }
+
+        inUsage.put(pereche.getFirst(), false);
+        notify();
+    }
+
+    public synchronized Set<Pereche> getClasament() {
+        Set<Pereche> clasament = new TreeSet<>();
+        for(Integer ID : punctaj.keySet())
+            clasament.add(new Pereche(ID, punctaj.get(ID), tara.get(ID)));
+        return clasament;
+    }
+}
+
